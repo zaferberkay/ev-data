@@ -1,117 +1,102 @@
 {
-  "Togg T10X V1 RWD Standart Menzil": {
-    "battery_kWh": 52.4,
-    "max_charge_power_kW": 11,
-    "range_km": 314
-  },
   "Togg T10X V2 RWD Uzun Menzil": {
     "battery_kWh": 88.5,
-    "max_charge_power_kW": 11,
-    "range_km": 523
-  },
-  "Tesla Model Y Long Range AWD": {
-    "battery_kWh": 75,
-    "max_charge_power_kW": 11,
-    "range_km": 533
-  },
-  "Tesla Model 3 Long Range AWD": {
-    "battery_kWh": 75,
-    "max_charge_power_kW": 11,
-    "range_km": 560
-  },
-  "Renault Zoe R135": {
-    "battery_kWh": 52,
-    "max_charge_power_kW": 22,
-    "range_km": 395
+    "ac_power_kW": 11,
+    "dc_power_kW": 180,
+    "range_km": 523,
+    "efficiency_Wh_km": 169,
+    "connector": "CCS",
+    "ac_charge_time_hr": 8.0,
+    "dc_charge_time_min": 30
   },
   "Renault Megane E-Tech EV60": {
     "battery_kWh": 60,
-    "max_charge_power_kW": 22,
-    "range_km": 450
-  },
-  "MG4 Electric Standard Range": {
-    "battery_kWh": 51,
-    "max_charge_power_kW": 11,
-    "range_km": 350
+    "ac_power_kW": 22,
+    "dc_power_kW": 130,
+    "range_km": 450,
+    "efficiency_Wh_km": 133,
+    "connector": "CCS",
+    "ac_charge_time_hr": 3.0,
+    "dc_charge_time_min": 30
   },
   "MG4 Electric Long Range": {
     "battery_kWh": 64,
-    "max_charge_power_kW": 11,
-    "range_km": 435
-  },
-  "MG ZS EV": {
-    "battery_kWh": 51.1,
-    "max_charge_power_kW": 6.6,
-    "range_km": 320
+    "ac_power_kW": 11,
+    "dc_power_kW": 135,
+    "range_km": 435,
+    "efficiency_Wh_km": 147,
+    "connector": "CCS",
+    "ac_charge_time_hr": 6.5,
+    "dc_charge_time_min": 35
   },
   "BYD Atto 3": {
     "battery_kWh": 60.5,
-    "max_charge_power_kW": 11,
-    "range_km": 420
+    "ac_power_kW": 11,
+    "dc_power_kW": 88,
+    "range_km": 420,
+    "efficiency_Wh_km": 144,
+    "connector": "CCS",
+    "ac_charge_time_hr": 6.0,
+    "dc_charge_time_min": 44
   },
-  "BMW iX1 xDrive30": {
-    "battery_kWh": 64.7,
-    "max_charge_power_kW": 11,
-    "range_km": 430
-  },
-  "Mercedes-Benz EQA 250": {
-    "battery_kWh": 66.5,
-    "max_charge_power_kW": 11,
-    "range_km": 426
-  },
-  "Hyundai Kona Electric 64 kWh": {
-    "battery_kWh": 64,
-    "max_charge_power_kW": 11,
-    "range_km": 484
+  "Tesla Model Y Long Range AWD": {
+    "battery_kWh": 75,
+    "ac_power_kW": 11,
+    "dc_power_kW": 250,
+    "range_km": 533,
+    "efficiency_Wh_km": 141,
+    "connector": "CCS",
+    "ac_charge_time_hr": 7.5,
+    "dc_charge_time_min": 27
   },
   "Hyundai Ioniq 5 Long Range RWD": {
     "battery_kWh": 72.6,
-    "max_charge_power_kW": 10.5,
-    "range_km": 470
-  },
-  "Kia EV6 Long Range RWD": {
-    "battery_kWh": 77.4,
-    "max_charge_power_kW": 11,
-    "range_km": 528
-  },
-  "Fiat 500e 42 kWh": {
-    "battery_kWh": 42,
-    "max_charge_power_kW": 11,
-    "range_km": 320
+    "ac_power_kW": 11,
+    "dc_power_kW": 220,
+    "range_km": 470,
+    "efficiency_Wh_km": 154,
+    "connector": "CCS",
+    "ac_charge_time_hr": 7.0,
+    "dc_charge_time_min": 18
   },
   "Peugeot e-208": {
     "battery_kWh": 50,
-    "max_charge_power_kW": 11,
-    "range_km": 340
+    "ac_power_kW": 11,
+    "dc_power_kW": 100,
+    "range_km": 340,
+    "efficiency_Wh_km": 147,
+    "connector": "CCS",
+    "ac_charge_time_hr": 5.0,
+    "dc_charge_time_min": 30
   },
-  "Peugeot e-2008": {
-    "battery_kWh": 50,
-    "max_charge_power_kW": 11,
-    "range_km": 320
-  },
-  "Volvo XC40 Recharge Twin": {
-    "battery_kWh": 78,
-    "max_charge_power_kW": 11,
-    "range_km": 418
-  },
-  "Citro\u00ebn \u00eb-C4": {
-    "battery_kWh": 50,
-    "max_charge_power_kW": 11,
-    "range_km": 350
+  "Kia EV6 GT-Line": {
+    "battery_kWh": 77.4,
+    "ac_power_kW": 11,
+    "dc_power_kW": 240,
+    "range_km": 506,
+    "efficiency_Wh_km": 153,
+    "connector": "CCS",
+    "ac_charge_time_hr": 7.5,
+    "dc_charge_time_min": 18
   },
   "Opel Mokka-e": {
     "battery_kWh": 50,
-    "max_charge_power_kW": 11,
-    "range_km": 330
+    "ac_power_kW": 11,
+    "dc_power_kW": 100,
+    "range_km": 330,
+    "efficiency_Wh_km": 152,
+    "connector": "CCS",
+    "ac_charge_time_hr": 5.0,
+    "dc_charge_time_min": 31
   },
-  "Polestar 2 Long Range Dual Motor": {
-    "battery_kWh": 75,
-    "max_charge_power_kW": 11,
-    "range_km": 480
-  },
-  "Chery Omoda 5 EV": {
-    "battery_kWh": 61,
-    "max_charge_power_kW": 11,
-    "range_km": 450
+  "Volkswagen ID.4 Pro": {
+    "battery_kWh": 77,
+    "ac_power_kW": 11,
+    "dc_power_kW": 135,
+    "range_km": 522,
+    "efficiency_Wh_km": 147,
+    "connector": "CCS",
+    "ac_charge_time_hr": 7.5,
+    "dc_charge_time_min": 35
   }
 }
